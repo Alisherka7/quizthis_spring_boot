@@ -18,7 +18,7 @@
   <ul>
     <li><a href="https://www.java.com/en/">Java</a></li>
     <li><a href="https://developer.android.com/studio">Android studio</a></li>
-    <li><a href="https://figma.com/">Figma</a></li>
+    <li><a href="https://www.figma.com/community/file/1267863084414820155">Figma</a></li>
   </ul>
 
 
@@ -41,7 +41,7 @@
 **QuizThis은** 사용자들이 자신만의 원하는 학습 세트를 생성하고 학습할 수 있는 플래시 카드나 퀴즈 모드를 제공하는 플랫폼입니다.
 
 
-### 어플리케이션 디자인 - <a href="https://www.figma.com/community/file/1267863084414820155/QuizThis---Android-App-with-source-code">소스 파일</a>
+### 어플리케이션 디자인 - <a href="https://www.figma.com/community/file/1267863084414820155">소스 파일</a>
 
 
 <img src="https://github.com/Alisherka7/quizthis_android/assets/38793933/83b41e9c-9301-4280-aee1-298feeb95087" width="800px"/>
